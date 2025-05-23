@@ -1,6 +1,13 @@
 {
   "name": "Pablo Coin",
   "symbol": "PABLO",
-  "uri": "https://raw.githubusercontent.com/aydinmrnv/pablo_coin/refs/heads/main/pablo.png",
-  "decimals": 9
+  "uri": "https://raw.githubusercontent.com/aydinmrnv/pablo_coin/main/pablo.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "5inAeKGKzFaQpoumxpB1AfsedpgoLvr4UNpms37KnhP3",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
